@@ -77,13 +77,13 @@ Seasonal boxplots or heatmaps can detect if summers or winters are changing more
 - How do regional differences factor into climate change impacts?
 Bar charts by country and boxplots by city show large geographic disparities in mean temperatures.
 
-## Potentiel Next steps I can take:
+## Potentiel next steps I can take:
 
 - Statistical Modeling: Fit linear or time-series models to quantify warming rates more precisely.
 
 - Geospatial Analysis: Map geographic temperature patterns and integrate with other climate datasets.
 
-- Feature Engineering: Create additional climate indicators (e.g., temperature anomalies, heatwave frequency).
+- Feature Engineering: Create additional climate indicators such as temperature anomalies, heatwave frequency.
 
-- Dashboard Integration: Build an interactive tool (e.g., Shiny app) to explore temperature trends dynamically.
+- Dashboard Integration: Build an interactive tool such as Shiny app to explore temperature trends dynamically.
 
